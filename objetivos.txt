@@ -1,1 +1,2 @@
 Mi primer objetivo es aprobar este master
+El segundo objetivo es refrescar mis conocimientos de html, css y javascript 
